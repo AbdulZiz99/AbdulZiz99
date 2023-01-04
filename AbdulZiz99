@@ -1,0 +1,91 @@
+html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Console.log</title>
+  </head>
+  <body>
+    <script src="repl 1.js"></script>
+  </body>
+</html>
+
+
+javascript
+// !Tugas 1
+console.log("Abdul Aziz");
+console.log(23);
+console.log("Jalan Teratai Medan");
+console.log("pertualangan");
+console.log("UCM Teknik Komputer");
+console.log("Karena ingin jadi Seorang Full stack developer");
+console.log("Membuat Portofolio di website");
+console.log("Pernah Kesulitan ya belum paham fungsi sebagian di bahasa pemograman");
+console.log("Ingin Mengasah Skill & menambah pengetahuan yg luas ");
+console.log("untuk bisa berkembang di dunia teknologi dan berkarir");
+
+// ! Tugas 2
+// ! variabel
+var nama = "Abdul Aziz";
+console.log(nama);
+
+let letumur = 23;
+console.log(letumur);
+
+var alamat = "Jl.Teratai";
+console.log(alamat);
+
+var hobi = "pertualangan";
+console.log(hobi);
+
+var asalSekolah = "UCM";
+console.log(asalSekolah);
+
+var jurusan = "Teknik Komputer";
+console.log(jurusan);
+
+var alasanSukaProgramming = "Ingin Belajar & Niat Untuk Jadi frotend developer/Full stack";
+console.log(alasanSukaProgramming);
+
+// gabungkan console.log
+var nama = "Abdul Aziz";
+var asalSekolah = "UCM";
+var jurusan = "Teknik Komputer";
+var alasanSukaProgramming = "Ingin Belajar & Niat Untuk Jadi frotend developer";
+
+console.log("Nama saya adalah " + nama + " asal sekolah/universitas " + asalSekolah + " jurusan " + jurusan + " Alasan saya tertarik dengan programing adalah " + alasanSukaProgramming);
+
+// ! Tugas 3
+
+//  tipe data
+//  ? tipe primitif
+var nama = "nilai";
+// ? string
+// const nama = 'Bangjago'
+// console.log(typeof nama);
+// ?  number
+const age = 23;
+// ? Boolean
+const deal = true;
+// ? null
+const address = null;
+// ? undefined
+var test;
+
+// ?Tipe data array
+// const hobi = ["renang", "sepak bola"];
+
+// ?TIPE DATA Object
+// const alamat = {
+//     kota:'jogja',
+//     kode_pos:'788666'
+// }
+// console.log(alamat.kota);
+
+// let undefined;
+// console.log(undefined);
+// let string = "hello";
+// console.log(typeof string);
+ 
